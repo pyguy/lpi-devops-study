@@ -34,11 +34,11 @@ Wiki](https://wiki.lpi.org/wiki/DevOps_Tools_Engineer_Objectives_V1)
 
 ##  2. <a name='ModernSoftwareDevelopment'></a>Modern Software Development
 
-- [ ]  [LPI Blog - DevOps Tools Introduction \#Modern Software Development
+- [x]  [LPI Blog - DevOps Tools Introduction \#Modern Software Development
 \| Linux Professional
 Institute](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-modern-software-development)
 
-- [ ]  [The Twelve-Factor App](https://12factor.net/)
+- [x]  [The Twelve-Factor App](https://12factor.net/) [![alt handout-link](img/handout-20.png)](handouts/TwelveFactorApp.md)
 
 - [ ]  [Martin Fowler](https://martinfowler.com/)
 
