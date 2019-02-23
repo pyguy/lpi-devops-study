@@ -2,7 +2,8 @@
 LPI DevOps study resources
 ==============
 
-Here I place the resource links I found useful on LPI blog studying for [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives). There are checkboxes for each topic that being checked when I finish studying that topic.
+Here I place the resource links I found useful on LPI blog studying for [Exam 701: DevOps Tools Engineer](https://www.lpi.org/our-certifications/exam-701-objectives). There are checkboxes for each topic that being checked when I finish studying that topic. Also I add my handouts after studying each link that can be accessed by clicking on this icon ![alt handout-link](img/handout-20.png).
+
 Feel free to contribute and add resources.
 
 ------------------------------------------------------------------------

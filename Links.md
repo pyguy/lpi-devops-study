@@ -40,9 +40,9 @@ Institute](https://www.lpi.org/blog/2018/01/16/devops-tools-introduction-02-mode
 
 - [x]  [The Twelve-Factor App](https://12factor.net/) [![alt handout-link](img/handout-20.png)](handouts/TwelveFactorApp.md)
 
-- [ ]  [Martin Fowler](https://martinfowler.com/)
+- [x]  [Martin Fowler](https://martinfowler.com/)
 
-- [ ]  [EnterpriseApplication](https://martinfowler.com/bliki/EnterpriseApplication.html)
+- [x]  [EnterpriseApplication](https://martinfowler.com/bliki/EnterpriseApplication.html) [![alt handout-link](img/handout-20.png)](handouts/EnterpriseApplication.md)
 
 - [ ]  [Microservices](https://martinfowler.com/articles/microservices.html)
 
